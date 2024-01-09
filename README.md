@@ -4,6 +4,10 @@
 - 📫 Email me @ zsj@bupt.edu.cn
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LibertyZsj)](https://github.com/anuraghazra/github-readme-stats)
+### Papers
+- [**TIP**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)]
+- [-] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.16018)]
+- [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition  [[paper](https://arxiv.org/abs/2312.15144)]
 <!--
 **LibertyZsj/LibertyZsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
