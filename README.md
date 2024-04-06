@@ -2,17 +2,15 @@
 - 🌱 I’m currently studying at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications**.
 - 🤔 My research interests include **Deep Learning**, **Computer Vision**, **Human Pose Estimation** and **Action Recongnition**.
 - 📫 Email me @ zsj@bupt.edu.cn
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Eezekiel&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Eezekiel&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Eezekiel&show_icons=true" />
-</picture>
+<p align="center">
+<a> <img align="center" 
+  src="https://github-readme-stats.vercel.app/api?username=Eezekiel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" 
+  alt="Eezekiel" /> 
+</a> |
+<a> <img align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eezekiel&layout=compact&theme=buefy&hide_border=true" /> 
+</a> 
+</p>
 
 ### Papers
 - [**TCSVT 2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.16018)]
