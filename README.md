@@ -1,6 +1,6 @@
 ### Hi！ 👋
 - 🌱 I’m currently studying at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications**.
-- 🤔 My research interests include **Deep Learning**, **Computer Vision**, **Human Pose Estimation** and **Action Recongnition**.
+- 🤔 My research interests include **Human Activity Analysis**, **Human motion synthetic** and **Multi-modal large models**.
 - 📫 Email me @ zsj@bupt.edu.cn
 <p align="center">
 <a> <img align="center" 
