@@ -14,7 +14,7 @@
 
 ### Papers
 - [**TCSVT 2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/document/10495051)]
-- [**PR 2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://arxiv.org/pdf/2207.10971.pdf)]
+- [**PR 2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000384)]
 - [**TIP 2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)]
 - [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition  [[paper](https://arxiv.org/abs/2312.15144)]
 <!--
