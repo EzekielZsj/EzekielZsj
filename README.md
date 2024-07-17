@@ -4,7 +4,7 @@
 - 📫 Email me @ zsj@bupt.edu.cn
 <p align="center">
 <a> <img align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=zhshj0110&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api?username=zhshj0110&show_icons=true&theme=buefy&hide_border=true" 
   alt="zhshj0110" /> 
 </a> |
 <a> <img align="center" 
