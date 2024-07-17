@@ -2,6 +2,7 @@
 - 🌱 I’m currently studying at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications**.
 - 🤔 My research interests include **Human Activity Analysis**, **Human Motion Synthetic** and **Multi-modal Large Models**.
 - 📫 Email me @ zsj@bupt.edu.cn
+- 👯 I'm a research intern in Xiaomi AI Lab currently.
 <p align="center">
 <a> <img align="center" 
   src="https://github-readme-stats.vercel.app/api?username=zhshj0110&show_icons=true&theme=buefy&hide_border=true" 
@@ -18,7 +19,7 @@
 - [**TIP 2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)]
 - [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition  [[paper](https://arxiv.org/abs/2312.15144)]
 <!--
-**LibertyZsj/LibertyZsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhshj0110/zhshj0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
