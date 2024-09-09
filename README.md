@@ -1,4 +1,5 @@
 ### Hi！ 👋
+![](https://komarev.com/ghpvc/?username=zhshj0110)
 - 🌱 I’m currently studying at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications**.
 - 🤔 My research interests include **Human Activity Analysis**, **Human Motion Synthetic** and **Multimodal Large Language Models**.
 -  👯 I'm a research intern in Xiaomi AI Lab currently.
